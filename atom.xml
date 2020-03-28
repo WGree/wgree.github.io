@@ -5,9 +5,9 @@
   <subtitle>ICPCer</subtitle>
   <link href="/atom.xml" rel="self"/>
   
-  <link href="http://wgree.site/"/>
+  <link href="http://wgree.github.io/"/>
   <updated>2020-03-27T17:26:27.344Z</updated>
-  <id>http://wgree.site/</id>
+  <id>http://wgree.github.io/</id>
   
   <author>
     <name>Wang.gree</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>2020 Google Kickstart Round A 题解</title>
-    <link href="http://wgree.site/3017366074/"/>
-    <id>http://wgree.site/3017366074/</id>
+    <link href="http://wgree.github.io/3017366074/"/>
+    <id>http://wgree.github.io/3017366074/</id>
     <published>2020-03-27T15:20:50.000Z</published>
     <updated>2020-03-27T17:26:27.344Z</updated>
     
@@ -32,12 +32,12 @@
     </summary>
     
     
-      <category term="题解" scheme="http://wgree.site/categories/%E9%A2%98%E8%A7%A3/"/>
+      <category term="题解" scheme="http://wgree.github.io/categories/%E9%A2%98%E8%A7%A3/"/>
     
-      <category term="Kickstart" scheme="http://wgree.site/categories/%E9%A2%98%E8%A7%A3/Kickstart/"/>
+      <category term="Kickstart" scheme="http://wgree.github.io/categories/%E9%A2%98%E8%A7%A3/Kickstart/"/>
     
     
-      <category term="Kickstart" scheme="http://wgree.site/tags/Kickstart/"/>
+      <category term="Kickstart" scheme="http://wgree.github.io/tags/Kickstart/"/>
     
   </entry>
   
