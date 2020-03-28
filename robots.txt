@@ -1,5 +1,5 @@
 User-agent: *
-Allow: /
+Allow: 
 Allow: /home/
 Allow: /about/
 Allow: /archives/
@@ -12,5 +12,5 @@ Disallow: /fonts/
 Disallow: /vendors/
 Disallow: /fancybox/
 
-Sitemap: http://wgree.github.io/sitemap.xml
-Sitemap: http://wgree.github.io/baidusitemap.xml
+Sitemap: http://wgree.site/sitemap.xml
+Sitemap: http://wgree.site/baidusitemap.xml
