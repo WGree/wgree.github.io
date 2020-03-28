@@ -3,13 +3,14 @@ Allow: /
 Allow: /home/
 Allow: /about/
 Allow: /archives/
+Allow: /categories/
 Allow: /tags/
 Disallow: /js/
+Disallow: /img/
 Disallow: /css/
 Disallow: /fonts/
 Disallow: /vendors/
 Disallow: /fancybox/
-Disallow: /categories/
 
 Sitemap: http://wgree.github.io/sitemap.xml
 Sitemap: http://wgree.github.io/baidusitemap.xml
